@@ -51,8 +51,7 @@ This is a PCB and case designed for the ESP32 Marauder project by justcallmekoko
 
 
 
-## Assembly Instructions
-you can watch the tutorial on my [tiktok](https://www.tiktok.com/@likepancake4999)
+
 
 
 
